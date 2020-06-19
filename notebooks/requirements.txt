@@ -1,0 +1,7 @@
+nltk
+gensim
+pandas
+tqdm
+plotly
+spacy
+scipy
