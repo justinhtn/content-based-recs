@@ -1,4 +1,4 @@
-## Content based e-book recommendations
+# Content based e-book recommendations
 This repo contains notebooks and data used to explore content based book recommendations using a subset of ebook data taken from [Gutenberg](https://www.gutenberg.org).
 
 ### Dependencies
