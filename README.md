@@ -8,6 +8,6 @@ This repo contains notebooks and data used to explore content based book recomme
 
 ### Previewing the notebook
 
-I've found that sometimes the notebook files take awhile to load inside github, and because I use deepnote for most of my own notebook work, it only makes sense to provide a share link for you to jump right in!
+Because I use deepnote for most of my own notebook work, it only makes sense to provide a share link for you to jump right in!
 
 <a href="https://beta.deepnote.com/project/60913358-33ab-491d-b75b-3a78dd29a2e5"> <img src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"> </a>
